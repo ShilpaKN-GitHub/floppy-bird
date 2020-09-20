@@ -37,7 +37,7 @@ var flappy_bird;
 var menu_gameover;
 
 function setup() {
-  createCanvas(windowWidth,windowHeight);
+  createCanvas(500,500);
   
   imageMode(CENTER);
   rectMode(CENTER);
